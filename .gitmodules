@@ -1,0 +1,3 @@
+[submodule "cifarpy"]
+	path = cifarpy
+	url = https://bitbucket.org/StoneInc/cifarpy
